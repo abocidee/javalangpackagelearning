@@ -5,14 +5,7 @@ import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
-import java.security.Policy.Parameters;
-
-import javax.sql.rowset.FilteredRowSet;
-
-import com.sun.org.apache.bcel.internal.generic.NEW;
-
 import entity.EnemyShipFactory;
-import entity.Persion;
 import entity.UFOEnemyShip;
 
 public class test {
